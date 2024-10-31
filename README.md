@@ -1,1 +1,1 @@
-# Arquitectura_Computadoras
+# Arquitectura_Computadoras con Servando Gonzalez Hernandez
